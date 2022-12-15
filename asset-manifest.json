@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gonzaga-portfolio/static/css/main.409521c3.css",
+    "main.js": "/gonzaga-portfolio/static/js/main.7a253b58.js",
+    "static/js/787.6455b7d0.chunk.js": "/gonzaga-portfolio/static/js/787.6455b7d0.chunk.js",
+    "static/media/cert2.PNG": "/gonzaga-portfolio/static/media/cert2.0e8087bb90547153d870.PNG",
+    "static/media/cert3.PNG": "/gonzaga-portfolio/static/media/cert3.c34b47be911d8463f6af.PNG",
+    "static/media/cert1.PNG": "/gonzaga-portfolio/static/media/cert1.346986584c7ac6151df7.PNG",
+    "static/media/cert4.PNG": "/gonzaga-portfolio/static/media/cert4.7f7315e29af6fb15c320.PNG",
+    "static/media/me.jpg": "/gonzaga-portfolio/static/media/me.7c4b152ba51d5abe24e7.jpg",
+    "index.html": "/gonzaga-portfolio/index.html",
+    "main.409521c3.css.map": "/gonzaga-portfolio/static/css/main.409521c3.css.map",
+    "main.7a253b58.js.map": "/gonzaga-portfolio/static/js/main.7a253b58.js.map",
+    "787.6455b7d0.chunk.js.map": "/gonzaga-portfolio/static/js/787.6455b7d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409521c3.css",
+    "static/js/main.7a253b58.js"
+  ]
+}
