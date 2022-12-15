@@ -1,0 +1,16 @@
+.Skill{
+    padding: 5rem;
+    background-color: var(--bg-color2);
+}
+.my-skills{
+    font-size: 2rem;
+    color: #323232;
+}
+.my-skills section{
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+}
+.my-skills span{
+    margin-left: 2rem;
+}

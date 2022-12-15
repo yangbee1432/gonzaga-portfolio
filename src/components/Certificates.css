@@ -1,0 +1,17 @@
+.Certificates{
+    padding: 5rem;
+    background-color: var(--bg-color2);
+}
+.certs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.certs section{
+    width: 50rem;
+    margin-top: 5rem;
+}
+.certs img{
+    width: 100%;
+}

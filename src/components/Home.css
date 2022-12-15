@@ -1,0 +1,20 @@
+.Home{
+    display: flex;
+    align-items: center;
+    padding: 5rem;
+}
+
+.Home img{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.home_details{
+    margin-left: 5rem;
+    color: #47545a;
+}
+
+
+

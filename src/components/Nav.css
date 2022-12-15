@@ -1,0 +1,21 @@
+.Nav{
+    display: flex;
+    justify-content: center;
+    background-color: var(--bg-color1);
+    padding: .5rem 0;
+    position: sticky;
+    top: 0;
+}
+
+.Nav li{
+    list-style: none;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #3d3d3d;
+    margin: 0 2rem;
+}
+
+.Nav li:hover{
+    background-color: #FFF;
+}

@@ -1,0 +1,15 @@
+.About{
+    padding: 5rem 5rem;
+    background-color: var(--bg-color2);
+    color: #3a3a3a;
+}
+
+.about_detail{
+    font-size: 1.5rem;
+}
+
+.about_detail p{
+    line-height: 3rem;
+}
+
+
